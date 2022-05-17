@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun May 15 03:36:05 2022
-
-@author: almas
-"""
-
 M = 9
 def puzzle(a):
     print("Solution:")
